@@ -1,6 +1,6 @@
 # Import-Export-MAC-XMC-NBI
 
-This program serves two purposes, either import or export MAC addresses by End-System Group name.
+This program serves two purposes, to either import or export MAC addresses by End-System Group name into XMC using the NBI API call.
 
 The program was created where a legacy network installation was being migrated to Extreme and adopting dynamic VLAN assignement through NAC.
 
